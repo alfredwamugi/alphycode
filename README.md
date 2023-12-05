@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alphycode
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Dart
 - 💞️ I like to bring ideas to life
 - 📫 How to reach me, alfredthedev@gmail.com
 

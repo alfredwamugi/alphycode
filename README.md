@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alphydev
+- 👋 Hi, I’m @wamugi
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Dart
 - 💞️ I like to bring ideas to life
